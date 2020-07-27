@@ -12,6 +12,11 @@ export default class CardBack extends Component {
 
   generateRatingElement = () => {
     // implement meeeee! See the readme for instructions
+    // return movieData.map((item, i) => <CardBack
+      // title={item.title}
+    //   genres={item.genres}
+    //   IMDBRating={item.IMDBRating}
+    //   key={i}/>)
   }
 
   render() {
